@@ -1,6 +1,3 @@
-
-The app will start on a local Vite dev server (for example `http://localhost:5173`) if environment variables like `DATABASE_URL` are configured.
-
 ## 📊 Data Model (High Level)
 
 - **Users:** account details, profile information  
@@ -18,4 +15,3 @@ The app will start on a local Vite dev server (for example `http://localhost:517
 ---
 
 **Author:** Ajmal Ali Khan  
-**Report:** See `GroomRentals-Report.pdf` for a one‑page project summary.
